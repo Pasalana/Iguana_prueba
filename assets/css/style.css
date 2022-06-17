@@ -1,0 +1,18 @@
+/* .carousel-inner img{
+    height: 11rem;
+} */
+
+.carousel-inner{
+    width: 80%;
+}
+.carousel-indicators button{
+    width: 0.8rem!important;
+    height: 0.8rem!important;
+    border-radius: 50%;
+
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
